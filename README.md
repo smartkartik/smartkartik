@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smartkartik
-- 👀 I’m interested in Data Analysus
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking for some kind of Internship related to Data Analysis
 .
